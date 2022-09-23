@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujunwa Fatima Chiamaka Nneoma</h1>
 <h3 align="center">A passionate Mobile Application Developer and Data Science Enthusiast from Nigeria🇳🇬</h3>
-<img align=“right” alt=“coding” width=“400” src=“imgres”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujunwafatima&label=Profile%20views&color=0e75b6&style=flat" alt="ujunwafatima" /> </p>
 
 - 🔭 I’m currently working on a food ordering application **ifood**
