@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatimaujunwa](https://github.com/fatimaujunwa)
 
-- 💬 Ask me about **Flutter, Data Science, Dart**
+- 💬 Ask me about **Flutter, Data Science, Dart, Java**
 
 - 📫 How to reach me **ujunwafatimah@gmail.com**
 
