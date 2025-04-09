@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujunwa Fatima Chiamaka Nneoma</h1>
-<h3 align="center">A passionate Mobile Application Developer and Data Scientist from Nigeria🇳🇬</h3>
+<h3 align="center">A passionate  Data Scientist from Nigeria🇳🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujunwafatima&label=Profile%20views&color=0e75b6&style=flat" alt="ujunwafatima" /> </p>
 
-- 🔭 I’m currently working on a food ordering application **ifood**
+
 
 - 🌱 I’m currently learning **Data Science, Data Structures and algorithms, Flutter, Dart**
 
